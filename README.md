@@ -1,6 +1,6 @@
-# proprietary_vendor_oplus_camera
+# Breadcrumbsoplus_camera_avicii_test
 
-Prebuilt stock oplus Camera to include in custom ROM builds.
+A experimental OOSCam for OnePlus Nord (avicii) to include in custom ROM builds. This has no guarantee that it would work
 
 ### How to use?
 
