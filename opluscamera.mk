@@ -28,7 +28,6 @@ TARGET_USES_OPLUS_CAMERA := true
 PRODUCT_PRODUCT_PROPERTIES += \
     persist.vendor.camera.privapp.list=com.oplus.camera \
     ro.com.google.lens.oem_camera_package=com.oplus.camera \
-    ro.com.google.lens.oem_image_package=com.oneplus.gallery
 
 # Sepolicy
 BOARD_VENDOR_SEPOLICY_DIRS += \
